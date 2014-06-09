@@ -1,0 +1,6 @@
+title: "Test Post"
+tags: ["Writefully"]
+publish: true
+details:
+  blurb: "This is a test post for Writefully"
+  cover: "assets/writefully.png"
